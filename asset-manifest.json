@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Invencible/static/css/main.88a5cff0.css",
+    "main.js": "/Invencible/static/js/main.7fcc9b8c.js",
+    "static/media/img-7.jpg": "/Invencible/static/media/img-7.f91e87c67055268e84d3.jpg",
+    "static/media/img-1.jpg": "/Invencible/static/media/img-1.f1543ccdf1ec76176c9c.jpg",
+    "static/media/img-10.jpg": "/Invencible/static/media/img-10.2ae55563e304abc2ac71.jpg",
+    "index.html": "/Invencible/index.html",
+    "main.88a5cff0.css.map": "/Invencible/static/css/main.88a5cff0.css.map",
+    "main.7fcc9b8c.js.map": "/Invencible/static/js/main.7fcc9b8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88a5cff0.css",
+    "static/js/main.7fcc9b8c.js"
+  ]
+}
